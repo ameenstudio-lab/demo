@@ -1,2 +1,3 @@
 # demo
-this is my first repository in git hub
+This is my first repository in git hub
+I am learning commits
